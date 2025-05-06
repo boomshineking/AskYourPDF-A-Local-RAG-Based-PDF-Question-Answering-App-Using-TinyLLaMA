@@ -1,0 +1,9 @@
+sentence-transformers
+langchain_community
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+pypdf
+faiss-cpu
