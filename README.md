@@ -27,7 +27,7 @@ AskYourPDF is a lightweight Streamlit-based application that allows you to inter
 ## 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/askyourpdf.git
+   git clone [https://github.com/your-username/askyourpdf.git](https://github.com/boomshineking/AskYourPDF-A-Local-RAG-Based-PDF-Question-Answering-App-Using-TinyLLaMA)
    cd askyourpdf
 
 2. Create and activate a virtual environment (optional but recommended):
