@@ -31,8 +31,8 @@ AskYourPDF is a lightweight Streamlit-based application that allows you to inter
    cd askyourpdf
 
 2. Create and activate a virtual environment (optional but recommended):
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   python -m (your own environment name) -y ( -Y so no need for the terminal to ask for your permission to install ) 
+   conda activate (your environment name) 
 
 3. Install the required dependencies:
    pip install -r requirements.txt
@@ -50,9 +50,9 @@ AskYourPDF is a lightweight Streamlit-based application that allows you to inter
 3. FAISS stores these embeddings and retrieves relevant content based on your question.
 4. TinyLLaMA is queried using LangChain’s RetrievalQA to generate an answer.
 
-## ▶️ Running the App
+## ▶️ Running the App.py
 
-   streamlit run app.py
+   type streamlit run app.py in your terminal of VS code 
 
 Then open the local URL provided (usually http://localhost:8501) to start interacting with your PDF.
 
