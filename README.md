@@ -56,7 +56,13 @@ AskYourPDF is a lightweight Streamlit-based application that allows you to inter
 
 Then open the local URL provided (usually http://localhost:8501) to start interacting with your PDF.
 
+## Screenshots
+
+![pdf before ](https://github.com/user-attachments/assets/5cffb77c-d8f6-4806-96e9-1f0efa3224de)
+![pdfdone](https://github.com/user-attachments/assets/7e83a96c-c1f0-494d-ac78-5cdf5a01d0f8)
+
 ## ✅ TODOs
+
 
 - Add support for multiple PDFs.
 - Integrate other GGUF-compatible models.
