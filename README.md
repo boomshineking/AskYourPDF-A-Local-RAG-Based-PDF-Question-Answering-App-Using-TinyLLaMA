@@ -1,5 +1,5 @@
-I could not store my model in the repsitory due to file size reasons 
- 
+I couldn’t store my model in the repository due to file size limitations, and deploying the model would incur additional and continuos charges
+
  # 📘 AskYourPDF: Local PDF Question Answering with TinyLLaMA and Streamlit
 (while running app.py you may run through an error with models file please create your own models file and store your offline foundation model there and run the code and change your names according to the foundation model you are running on the models path folder line)
 
